@@ -1,6 +1,6 @@
 {
   "name": "@devo/hoity-grasp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Hoity (High Order ITerators Yielded) predefined elements grasping",
   "main": "lib/index.js",
   "files": [
